@@ -1,0 +1,3 @@
+template_path: s3.py
+parameters:
+    BucketName: mahesh-is-awesome-xsaj
